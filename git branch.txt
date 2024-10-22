@@ -1,0 +1,14 @@
+git branch 
+used to display the branchs 
+git branch-a
+used to display which branch we use 
+git check checkout branchname
+git status 
+git add filename.txt
+git add .
+ adds all file
+git commit-m""
+git push origin new 
+git merge new 
+ main to merge the new branch
+ 
